@@ -1,1 +1,40 @@
 
+https://hpc.nih.gov/apps/singularity.html
+
+Singularity containers let users run applications in a Linux environment of their choosing.
+
+Los contenedores de singularidad permiten a los usuarios ejecutar aplicaciones en un entorno Linux de su elección.
+
+created by someone else - creado por otra persona
+
+without actually installing anything. - sin realmente instalar nada.
+
+workflow - flujo de trabajo
+
+These definition files can all be found on GitHub, and the containers built from them are hosted on Singularity hub. - Estos archivos de definición se pueden encontrar en GitHub, y los contenedores creados a partir de ellos se alojan en el centro de Singularity.
+
+https://github.com/NIH-HPC/singularity-examples/tree/master/rstudio
+
+If the latest versions of RStudio for Linux don't support your computing environment's operating system version, you can avail yourself of Singularity and still use it! This container provides a complete R and RStudio environment.
+Si las últimas versiones de RStudio para Linux no son compatibles con la versión del sistema operativo de su entorno informático, puede aprovechar Singularity y seguir utilizándolo. Este contenedor proporciona un entorno completo de R y RStudio.
+
+warmly greeting you - saludándote cordialmente
+
+>> Customization
+
+Below, the sandbox preparation is described.
+A continuación, se describe la preparación de la caja de arena.
+
+below, looking to freeze the contents of the container
+abajo, buscando congelar el contenido del envase.
+
+>> Creating Singularity containers
+
+someone else - alguien más
+
+
+
+
+
+
+
