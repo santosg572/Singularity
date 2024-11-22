@@ -2,5 +2,8 @@ singularity run mytool.sif
 
 sudo singularity build mytool.sif myfile.def
 
+https://andysbrainbook.readthedocs.io/en/latest/MRtrix/MRtrix_Course/MRtrix_03_DataFormats.html
+
+
 
 
