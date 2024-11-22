@@ -4,6 +4,7 @@ sudo singularity build mytool.sif myfile.def
 
 https://andysbrainbook.readthedocs.io/en/latest/MRtrix/MRtrix_Course/MRtrix_03_DataFormats.html
 
+https://www.geeksforgeeks.org/create-docker-image/#how-to-create-docker-image-with-dockerfile-a-stepbystep-guide
 
 
 
