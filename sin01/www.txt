@@ -8,4 +8,7 @@ https://www.geeksforgeeks.org/create-docker-image/#how-to-create-docker-image-wi
 
 https://unfmontreal.github.io/Dcm2Bids/3.2.0/tutorial/first-steps/
 
+https://docs.hpc.kaust.edu.sa/soft_env/prog_env/containers/create_image.html
+
+
 
