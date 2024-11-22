@@ -6,5 +6,6 @@ https://andysbrainbook.readthedocs.io/en/latest/MRtrix/MRtrix_Course/MRtrix_03_D
 
 https://www.geeksforgeeks.org/create-docker-image/#how-to-create-docker-image-with-dockerfile-a-stepbystep-guide
 
+https://unfmontreal.github.io/Dcm2Bids/3.2.0/tutorial/first-steps/
 
 
