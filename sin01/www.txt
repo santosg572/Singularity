@@ -10,5 +10,8 @@ https://unfmontreal.github.io/Dcm2Bids/3.2.0/tutorial/first-steps/
 
 https://docs.hpc.kaust.edu.sa/soft_env/prog_env/containers/create_image.html
 
+https://docs.sylabs.io/guides/3.7/user-guide/cli/singularity_run.html
+
+
 
 
