@@ -1,0 +1,6 @@
+singularity run mytool.sif
+
+sudo singularity build mytool.sif myfile.def
+
+
+
